@@ -1,5 +1,5 @@
 var config        = require('config');
-var teambition    = require('teambition');
+var Teambition    = require('teambition');
 var tokenService  = new Teambition();
 
 var TaskAPI = function () {}
